@@ -48,7 +48,7 @@
     
 -  Mappers
     
--  CalculateAge() for UserDto -- [[DateTimeExtensions
+-  CalculateAge() for UserDto -- [[DateTimeExtensions]]
     
 -  `Count()` for `List` and `Any()` for `IEnumerable`
     
