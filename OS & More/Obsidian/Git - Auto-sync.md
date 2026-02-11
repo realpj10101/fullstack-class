@@ -58,7 +58,6 @@ ssh -T git@github.com
 - Type `yes` on first connect
     
 - Expect a greeting with your username
-    
 
 ---
 
