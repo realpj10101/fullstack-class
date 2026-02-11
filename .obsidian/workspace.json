@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "91588915a7abc7bf",
+        "id": "430ae0d01bc8ec5c",
         "type": "tabs",
         "children": [
           {
-            "id": "116658d95736a205",
+            "id": "e481230979a52bd4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "OS & More/Obsidian/Git - Auto-sync.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Git - Auto-sync"
             }
           }
         ]
@@ -69,12 +73,22 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "25e0bb8e32cd094f",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 268.0026054382324
   },
   "right": {
     "id": "b2e1d552d47ef3d2",
@@ -160,13 +174,23 @@
               "icon": "lucide-list",
               "title": "Outline of token-auth"
             }
+          },
+          {
+            "id": "e2b6877129446e97",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,15 +200,24 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "f4bbe5028a52d99e",
   "lastOpenFiles": [
+    "OS & More/Obsidian/Plugins.md",
+    "Images/Pasted image 20250818184754.png",
+    "Programming/JWT/Why JWT (Token).md",
+    "OS & More/Obsidian/Git - Auto-sync.md",
+    "OS & More/Obsidian",
+    "Programming/JWT/JWT (Token).md",
+    "OS & More",
+    "Images/Drawing 2026-02-11 15.04.52.excalidraw.md",
+    "Programming",
     "Images/jwt-structure.png",
-    "Teach/JWT/Why JWT (Token).md",
-    "Teach/JWT/JWT (Token).md",
-    "Teach/JWT",
+    "Programming/JWT",
     "Teach",
     "Images/token-auth.png",
     "Images",

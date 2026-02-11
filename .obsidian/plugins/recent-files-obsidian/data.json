@@ -1,0 +1,24 @@
+{
+  "recentFiles": [
+    {
+      "basename": "Git - Auto-sync",
+      "path": "OS & More/Obsidian/Git - Auto-sync.md"
+    },
+    {
+      "basename": "Plugins",
+      "path": "OS & More/Obsidian/Plugins.md"
+    },
+    {
+      "basename": "Why JWT (Token)",
+      "path": "Programming/JWT/Why JWT (Token).md"
+    },
+    {
+      "basename": "JWT (Token)",
+      "path": "Programming/JWT/JWT (Token).md"
+    }
+  ],
+  "omittedPaths": [],
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false
+}
