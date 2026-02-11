@@ -17,13 +17,12 @@ obsidian://show-plugin?id=obsidian-git
 ## 2️⃣ Generate SSH Key (with passphrase)
 
 ```bash
-ssh-keygen -t ed25519 -C "mrtabaa@gmail.com"
+ssh-keygen -t ed25519 -C "parsajfr1385oo@gmail.com"
 ```
 
 - Press **Enter** to accept default path: `~/.ssh/id_ed25519`
     
 - Set a passphrase
-    
 
 ---
 
@@ -81,7 +80,7 @@ git remote -v
 ```bash
 cd /home/reza/Documents/GitHub/obsidian-class
 
-git remote set-url origin git@github.com:mrtabaa/obsidian-class.git
+git remote set-url origin git@github.com:realpj10101/obsidian-class.git
 git remote -v
 ```
 
