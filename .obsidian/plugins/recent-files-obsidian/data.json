@@ -5,6 +5,18 @@
       "path": "Teach/Advance.md"
     },
     {
+      "basename": "Why JWT (Token)",
+      "path": "Programming/JWT/Why JWT (Token).md"
+    },
+    {
+      "basename": "JWT (Token)",
+      "path": "Programming/JWT/JWT (Token).md"
+    },
+    {
+      "basename": "jwt-structure",
+      "path": "Images/jwt-structure.png"
+    },
+    {
       "basename": "DateTimeExtensions",
       "path": "Programming/DateTimeExtensions.md"
     },
@@ -19,14 +31,6 @@
     {
       "basename": "Plugins",
       "path": "OS & More/Obsidian/Plugins.md"
-    },
-    {
-      "basename": "Why JWT (Token)",
-      "path": "Programming/JWT/Why JWT (Token).md"
-    },
-    {
-      "basename": "JWT (Token)",
-      "path": "Programming/JWT/JWT (Token).md"
     }
   ],
   "omittedPaths": [],
