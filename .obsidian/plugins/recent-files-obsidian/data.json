@@ -1,8 +1,52 @@
 {
   "recentFiles": [
     {
+      "basename": "0-Number of students",
+      "path": "Parsa/0-Number of students.md"
+    },
+    {
+      "basename": "Subs Add-ons",
+      "path": "Parsa/Subs Add-ons.canvas"
+    },
+    {
+      "basename": "Sub-Research",
+      "path": "Parsa/Sub-Research.md"
+    },
+    {
       "basename": "Advance",
       "path": "Teach/Advance.md"
+    },
+    {
+      "basename": "3- Prices",
+      "path": "Parsa/3- Prices.md"
+    },
+    {
+      "basename": "1-Number of Roles",
+      "path": "Parsa/1-Number of Roles.md"
+    },
+    {
+      "basename": "2- Add-ons",
+      "path": "Parsa/2- Add-ons.md"
+    },
+    {
+      "basename": "4- Db Save",
+      "path": "Parsa/4- Db Save.md"
+    },
+    {
+      "basename": "Sub Naming",
+      "path": "Parsa/Sub Naming.md"
+    },
+    {
+      "basename": "Parsa-Plans",
+      "path": "Parsa/Parsa-Plans.md"
+    },
+    {
+      "basename": "Pain Trigger",
+      "path": "Parsa/Pain Trigger.md"
+    },
+    {
+      "basename": "Git - Auto-sync",
+      "path": "OS & More/Obsidian/Git - Auto-sync.md"
     },
     {
       "basename": "Why JWT (Token)",
@@ -23,10 +67,6 @@
     {
       "basename": "BaseApiController",
       "path": "Programming/BaseApiController.md"
-    },
-    {
-      "basename": "Git - Auto-sync",
-      "path": "OS & More/Obsidian/Git - Auto-sync.md"
     },
     {
       "basename": "Plugins",
